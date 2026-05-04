@@ -210,6 +210,4 @@ Pour integrer ce module dans le projet mobile, les collegues ont surtout besoin 
 - le format de la requete `multipart/form-data`
 - le format de la reponse JSON
 
-## Auteur
 
-Projet prepare pour integration avec une application mobile de gestion de presence.
