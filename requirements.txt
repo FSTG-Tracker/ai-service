@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+numpy
+Pillow
+python-multipart
+dlib
+cmake
+httpx
